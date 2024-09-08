@@ -30,6 +30,7 @@ from config import BANNED_USERS, lyrical
         [
             "play",
             "oynat",
+            "veke",
             "voynat",
             "vplay",
             "cplay",
