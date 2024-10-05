@@ -21,10 +21,9 @@ etiketleme komutları:
 ╰☞ /utag - grubunuzdaki üyeleri etiketler.
 ╰☞ /atag - yöneticileri etiketler.
 ╰☞ /dur - etiketlemeyi durdurur
+"""
 HELP_3 = """
-**YAYIN YAPMA ÖZELLİĞİ**
-
-REKLAM KOMUTLARI
+**REKLAM KOMUTLARI**
 
  /reklam [Mesaj veya Mesaja Cevap] - Herhangi bir mesajı Bot'un Sunulan Sohbetlerine yayınlayın.
 
