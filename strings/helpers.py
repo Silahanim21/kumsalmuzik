@@ -25,7 +25,8 @@ HELP_3 = """
 **YAYIN YAPMA ÖZELLİĞİ**
 
 REKLAM KOMUTLARI
-🔸/reklam [Mesaj veya Mesaja Cevap] - Herhangi bir mesajı Bot'un Sunulan Sohbetlerine yayınlayın.
+
+ /reklam [Mesaj veya Mesaja Cevap] - Herhangi bir mesajı Bot'un Sunulan Sohbetlerine yayınlayın.
 
 yayın seçenekleri:
 **-pin** : Bu, mesajınızı sabitleyecektir 
